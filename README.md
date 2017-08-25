@@ -21,7 +21,7 @@
 >1、执行org.liky.sina.craw.URLDemo类<br>
 >2、执行org.liky.sina.index.IndexCreator类
 
-###再运行　SinaNewsSearch工程
+### 再运行　SinaNewsSearch工程
 
 
 
