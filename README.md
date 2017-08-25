@@ -7,8 +7,8 @@
 >３、模糊查询，显示单词索引的文章内容<br>
 
 #　目录
-    １. SinaNewsSpider主要用于爬去新闻和入库（数据库和hdfs）<br>
-    2. SinaNewsSearch 用于建立倒排索引，前端显示
+>1. SinaNewsSpider主要用于爬去新闻和入库（数据库和hdfs）<br>
+>2. SinaNewsSearch 用于建立倒排索引，前端显示
 
 # 环境
 >１、hadoop 2.6.0<br>
